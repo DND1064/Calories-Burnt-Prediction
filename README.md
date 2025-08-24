@@ -24,5 +24,5 @@ This project predicts the number of calories burned during various exercises usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calories-burnt-prediction.git
+   git clone https://github.com/DND1064/Calories-Burnt-Prediction.git
    cd calories-burnt-prediction
